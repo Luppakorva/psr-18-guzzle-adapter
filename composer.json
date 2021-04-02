@@ -1,9 +1,9 @@
 {
-    "name": "divineomega/psr-18-guzzle-adapter",
-    "description": "PSR-18 adapter for the Guzzle HTTP client",
+    "name": "luppakorva/psr-18-guzzle-adapter",
+    "description": "PSR-18 adapter for the Guzzle HTTP client php 8",
     "type": "library",
     "require": {
-        "php": "^7.1",
+        "php": ">=8.0",  
         "guzzlehttp/guzzle": "^6.3||^7.0",
         "psr/http-client": "^1.0"
     },
